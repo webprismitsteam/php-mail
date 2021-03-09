@@ -1,0 +1,1 @@
+<a href="mail-sent.php">Send Mail</a>
